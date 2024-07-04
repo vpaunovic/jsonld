@@ -55,14 +55,14 @@
       "@value": "Test abs"
     },
     "motivation": {
-      "@value": "Test motivation"
+      "@value": "Test mot"
     },
     "rationale": {
       "@value": "Test rat"
     },
     "references": [],
     "title": {
-      "@value": "Test Submit"
+      "@value": "Test Submit Demo"
     }
   }
 }
